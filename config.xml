@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>instamojo</name>
+	<displayName><![CDATA[Instamojo]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Accept Debit Cards, Credit Cards, Net Banking, UPI, Wallets, EMI by integrating Instamojo Indian Payment Gateway.]]></description>
+	<author><![CDATA[Gautam Garg]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[If you need any help with setup/integration, feel free to contact at +917738456813. Are you sure about uninstalling Instamojo?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

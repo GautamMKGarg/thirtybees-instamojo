@@ -1,0 +1,30 @@
+module_name: Instamojo - Indian Payment Gateway
+compatible_versions: 1.0.0+
+author: Gautam Garg
+category: payment
+tags:
+  - instamojo
+  - indian payment gateway
+  - payment gateway
+  - card payments
+  - emi
+  - free payment gateway
+  - india
+  - inr
+  - net banking
+  - upi
+  - wallets
+  - mobikwik
+  - freecharge
+  - ola money
+  - jio money
+description_short: Accept Debit Cards, Credit Cards, Net Banking, UPI, Wallets, EMI by integrating Instamojo Indian Payment Gateway.
+description: description.md
+images:
+  - image-1.png
+  - image-2.png
+  - image-3.png
+  - image-4.png
+  - image-5.png
+  - image-6.png
+license: MIT
