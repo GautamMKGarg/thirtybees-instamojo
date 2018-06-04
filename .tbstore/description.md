@@ -1,10 +1,15 @@
 The Instamojo module allows your thirty bees site to accept payments from the Instamojo Indian Payment Gateway. This module allows you to accept INR using Debit Cards, Credit Cards, Net Banking, UPI, Wallets, EMI by integrating Instamojo. This module also provides you feature to receive payment without leaving your site.
 
+## Special Offer for New Instamojo Accounts
+
+Create a new account using below link and get Instamojo account at <b>1.9% + â‚¹1</b> transaction fee instead of 2% + â‚¹3.
+[Join now to avail the offer](http://arngr.tk/instamojo?utm_source=thirtybees_store&utm_medium=thirtybees&utm_campaign=ecommerce_module)
+
 ## Configuration
 
 1. Some features may not work with old Instamojo account! We recommend you to create a new account. Sign up process will hardly take 10-15 minutes.
 
-[Sign up on Instamojo](http://arngr.tk/instamojo?utm_source=thirtybees_store&utm_medium=thirtybees&utm_campaign=ecommerce_module)
+[Click here to Sign up on Instamojo](http://arngr.tk/instamojo?utm_source=thirtybees_store&utm_medium=thirtybees&utm_campaign=ecommerce_module)
 
 2. During signup, Instamojo will ask your PAN and Bank account details, after filling these details, you will reach Instamojo Dashboard.
 
