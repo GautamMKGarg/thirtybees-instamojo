@@ -1,6 +1,6 @@
 # Instamojo Thirty Bees Payment Gateway Plugin
 
-Tested on Thirtybees 1.0.4
+Tested on Thirtybees 1.0.4 and Prestashop 1.6
 
 ## Description
 
