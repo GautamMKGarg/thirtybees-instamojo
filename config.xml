@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
 	<name>instamojo</name>
-	<displayName><![CDATA[Instamojo]]></displayName>
+	<displayName><![CDATA[Instamojo - Indian Payment Gateway]]></displayName>
 	<version><![CDATA[1.0.0]]></version>
 	<description><![CDATA[Accept Debit Cards, Credit Cards, Net Banking, UPI, Wallets, EMI by integrating Instamojo Indian Payment Gateway.]]></description>
 	<author><![CDATA[Gautam Garg]]></author>
