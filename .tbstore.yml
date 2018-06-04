@@ -1,4 +1,4 @@
-module_name: Instamojo Payment Gateway
+module_name: Instamojo Payments
 compatible_versions: 1.0.0+
 author: Gautam Garg
 category: payment
