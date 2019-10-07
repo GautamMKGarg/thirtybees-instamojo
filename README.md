@@ -20,7 +20,7 @@ The Instamojo module allows your thirty bees site to accept payments from the In
 ## Configuration
 
 1. Some features may not work with old Instamojo account! We recommend you to create a new account. Sign up process will hardly take 10-15 minutes.
-[Sign up on Instamojo](http://arngr.tk/instamojo?utm_source=github&utm_medium=thirtybees&utm_campaign=ecommerce_module)
+[Sign up on Instamojo](http://arngr.tk/instamojo?utm_source=thirtybees&utm_medium=ecommerce-module&utm_campaign=github&utm_content=help-signup)
 
 2. During signup, Instamojo will ask your PAN and Bank account details, after filling these details, you will reach Instamojo Dashboard.
 
