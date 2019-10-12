@@ -36,15 +36,15 @@ class Instamojo extends PaymentModule
 
     private $error_messages;
 
-    private $signUpUrl = "http://arngr.tk/instamojo?utm_source=admin_help&utm_medium=thirtybees&utm_campaign=ecommerce_module";
+    private $signUpUrl = "http://go.thearrangers.xyz/instamojo?utm_source=admin_help&utm_medium=thirtybees&utm_campaign=ecommerce_module";
 
-    private $specialOfferUrl = "http://arngr.tk/instamojo?utm_source=admin_special_offer&utm_medium=thirtybees&utm_campaign=ecommerce_module";
+    private $specialOfferUrl = "http://go.thearrangers.xyz/instamojo?utm_source=admin_special_offer&utm_medium=thirtybees&utm_campaign=ecommerce_module";
 
     public function __construct()
     {
         $this->name = 'instamojo';
         $this->tab = 'payments_gateways';
-        $this->version = '1.0.0';
+        $this->version = '1.0.1';
         $this->author = 'Gautam Garg';
         $this->controllers = array(
             'validation'
@@ -138,7 +138,7 @@ class Instamojo extends PaymentModule
                 array(
                     'img_path' => $this->_path,
                     'banner_title' => $this->l('Powered by Instamojo'),
-                    'instamojo_link' => "http://arngr.tk/instamojo"
+                    'instamojo_link' => "http://go.thearrangers.xyz/instamojo"
                 ));
         }
         

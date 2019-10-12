@@ -8,7 +8,7 @@ SSL is strongly recommended on your website to make it more secure and get bette
 
 1. Some features may not work with old Instamojo account! We recommend you to create a new account. Sign up process will hardly take 10-15 minutes.
 
-[Click here to Sign up on Instamojo](http://arngr.tk/instamojo?utm_source=thirtybees&utm_medium=ecommerce-module&utm_campaign=thirtybees-store&utm_content=help-signup)
+[Click here to Sign up on Instamojo](http://go.thearrangers.xyz/instamojo?utm_source=thirtybees&utm_medium=ecommerce-module&utm_campaign=thirtybees-store&utm_content=help-signup)
 
 2. During signup, Instamojo will ask your PAN and Bank account details, after filling these details, you will reach Instamojo Dashboard.
 
